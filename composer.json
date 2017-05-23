@@ -1,0 +1,18 @@
+{
+    "name": "tolawho/loggy",
+    "description": "Laravel log with multiple channel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tolawho",
+            "email": "tolawho@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tolawho\\Loggy\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
